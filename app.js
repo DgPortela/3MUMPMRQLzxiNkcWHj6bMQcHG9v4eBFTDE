@@ -3,3 +3,5 @@ function somar (numA, NumB){
 }
 
 console.log(somar(10, 35))
+
+
